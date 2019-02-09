@@ -106,7 +106,7 @@ footer {
     padding-bottom: var(--spacer-large);
     text-align: center;
 }
-.footer.notices {
+.footer-notices {
     padding-top: var(--spacer);
     padding-bottom: var(--spacer);
 }
